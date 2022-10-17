@@ -1,0 +1,18 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Ovelil Paints",
+  "short_name": "Ovelil Paints",
+  "icons": [
+    {
+      "src": "https://monsoonmalabar.com/ovelilpaints/logo.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#1266f1",
+  "background_color": "#fdfdfd",
+  "start_url": "https://monsoonmalabar.com/ovelilpaints\/",
+  "display": "standalone",
+  "orientation": "natural"
+}
